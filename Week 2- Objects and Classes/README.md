@@ -12,3 +12,19 @@ I developed a program that simulates the operation of an elevator for a three st
 	* Go back to the second floor
 	* Go back to the first floor
 	* Be sure to call displayCurrentFloor() to notify the user which floor the elevator is on at each step
+
+# Elevator Code
+
+![Image1](Images/elevator1.JPG)
+![Image2](Images/elevator2.JPG)
+![Image3](Images/elevator3.JPG)
+
+# Elevator Test Code
+
+![Image1](Images/elevatortest1.JPG)
+![Image2](Images/elevatortest2.JPG)
+
+# Running the Code
+
+![Image1](Images/elevatorrun.JPG)
+
