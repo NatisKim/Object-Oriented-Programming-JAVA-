@@ -1,6 +1,6 @@
 # Object-Oriented-Programming-JAVA-
 
-For this course, I completed many programming assignments and projects in Java code. ** For each week listed in the table of contents, I attached the program code file and screenshots of the code output**.
+For this course, I completed many programming assignments and projects in Java code. **For each week listed in the table of contents, I attached the program code file and screenshots of the code output**.
 
 # Table of Contents
 
