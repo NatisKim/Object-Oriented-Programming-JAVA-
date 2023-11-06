@@ -18,6 +18,7 @@ This project includes the Storm class and Storm Chaser class. Code was written t
 
 * Running the Code
 
-![Image1](projectrun1.JPG)
-![Image2](projectrun2.JPG)
-![Image3](projectrun3.JPG)
+![Image1](Images/projectrun1.JPG)
+![Image2](Images/projectrun2.JPG)
+![Image3](Images/projectrun3.JPG)
+
