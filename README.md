@@ -11,5 +11,5 @@ For this course, I completed many programming assignments and projects in Java c
 * Week 7: Arrays and Strings
 * Week 9: Objects and Classes: Inheritance
 * Week 11: GUI Components
-* Project 1
-* Project 2
+* Project 
+
